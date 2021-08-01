@@ -60,6 +60,11 @@ div.nav-bar {
 .active {
     background-color: rgba(255, 166, 0, .6);
 }
+.alert {
+    text-align: center;
+    background-color: rgba(255, 205, 112, 0.74);
+    padding: 5px;
+}
 div.introduction {
     /* text-align: center; */
     padding: 25vh 0 25vh 3vw;
